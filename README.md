@@ -49,4 +49,4 @@
 <a href="https://www.instagram.com/kajalganorkar/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height=50px/></a>
 
 
-[resume]:https://drive.google.com/file/d/1T5JLa5y1UV_EJ8isNf_obCe0nWY4Wceq/view?usp=sharing
+[resume]:https://drive.google.com/file/d/1Q_6s7zwKEzNaU7S7LMGGLvteWV3GseJk/view?usp=sharing
