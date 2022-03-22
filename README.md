@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
+
+
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kajal👩‍💻</h1>
 <br>
 <h3 align="center">I'm Kajal, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
