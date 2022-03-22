@@ -2,9 +2,9 @@
 <br>
 <h3 align="center">I'm Kajal, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
 <br>
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
+- 👨‍💻 You can find my portfolio here 
 - 🌱 I’m currently doing full-stack web development course from Masai School.
 - 👯 I’m looking to collaborate on open source
 - 🏫 I’m from Amravati, Maharashtra
