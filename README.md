@@ -9,7 +9,7 @@
 <br>
 
 - ✍ You can find my resume here [Resume]
-- 👨‍💻 You can find my portfolio here 
+- 👨‍💻 You can find my portfolio here [Portfolio]
 - 🌱 I’m currently doing full-stack web development course from Masai School.
 - 👯 I’m looking to collaborate on open source
 - 🏫 I’m from Amravati, Maharashtra
@@ -55,3 +55,4 @@
 
 
 [resume]:https://drive.google.com/file/d/1Q_6s7zwKEzNaU7S7LMGGLvteWV3GseJk/view?usp=sharing
+[Portfolio]:https://kajal-ganorkar.vercel.app/
