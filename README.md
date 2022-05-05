@@ -54,5 +54,5 @@
 <a href="https://www.instagram.com/kajalganorkar/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height=50px/></a>
 
 
-[resume]:https://drive.google.com/file/d/1LTlAA2ounMrB9WFMLa8M2li0xhYCm165/view
+[resume]:https://drive.google.com/file/d/1AujMdqdp-ZWRTvVT-flc5Sqq2GrOZ3qE/view?usp=sharing
 [Portfolio]:https://kajal-ganorkar.vercel.app/
