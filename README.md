@@ -10,7 +10,7 @@
 
 - ✍ You can find my resume here [Resume]
 - 👨‍💻 You can find my portfolio here [Portfolio]
-- 🌱 I’m currently doing full-stack web development course from Masai School.
+- 🌱 I’m currently working as full-stack web developer (SDE2).
 - 👯 I’m looking to collaborate on open source
 - 🏫 I’m from Amravati, Maharashtra
 - 📫 Reach out to me: kajalganorkar97@gmail.com
